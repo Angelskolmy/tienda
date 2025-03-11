@@ -1,0 +1,18 @@
+.icono{
+    color : black;
+}
+li{
+    list-style-type: none;
+}
+footer{
+    background-color: white;
+}
+.tarjetas{
+    background-color: black;
+}
+.galeria{
+    background-color: rgb(210, 205, 205);
+}
+.navegacion{
+    background-color: white;
+}
